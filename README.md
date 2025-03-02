@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Shadcn**
 
-- 💬 Ask me about **Next JS,**
+- 💬 Ask me about **Next.js, React, MERN Stack, and Teaching Programming**
 
 - 📄 Know about my experiences [Resume_MERN_Stack](https://cutt.ly/Fuad_MERN_Stack_resume)
 
