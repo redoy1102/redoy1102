@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Fuadul Islam Redoy</h1>
-<h3 align="center">A passionate Software Engineer with expertise in full-stack development</h3>
-<img align="right" alt="Md Fuadul Islam Redoy" width="400" height="500" src="https://i.ibb.co.com/GvvFJ0M0/Professional-Pic.jpg">
+<h3 align="center">A passionate software engineer with expertise in full-stack development</h3>
+<img align="right" alt="Md Fuadul Islam Redoy" width="400" src="https://i.ibb.co.com/GvvFJ0M0/Professional-Pic.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redoy1102&label=Profile%20views&color=0e75b6&style=flat" alt="redoy1102" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Next JS,**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/187WG30Ux7ZkG417YW8Ili8-F10Se6VbF/view?usp=drive_link](https://drive.google.com/file/d/187WG30Ux7ZkG417YW8Ili8-F10Se6VbF/view?usp=drive_link)
+- 📄 Know about my experiences [Resume_MERN_Stack](https://cutt.ly/Fuad_MERN_Stack_resume)
 
 - ⚡ Fun fact **Cartoon Lover**
 
