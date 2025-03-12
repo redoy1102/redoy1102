@@ -16,9 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/code-with-redoy-8040b9356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="code-with-redoy-8040b9356" height="30" width="40" /></a>
 <a href="https://fb.com/se.fuadulislamredoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="se.fuadulislamredoy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shikkhangon bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shikkhangon bd" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/redoy1102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="redoy1102" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Redoy542000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Redoy542000" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/redoy1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="redoy1102" height="30" width="40" /></a>
 </p>
 
