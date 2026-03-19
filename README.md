@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redoy1102&label=Profile%20views&color=0e75b6&style=flat" alt="redoy1102" /> </p>
 
-- 🔭 I’m currently working on **Book Rental Service || Code with Redoy**
+- 🔭 I’m currently working on **CWR Digital and eManager IT Institute**
 
-- 🌱 I’m currently learning **Shadcn**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Next.js, React, MERN Stack, and Teaching Programming**
 
